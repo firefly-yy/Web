@@ -14,4 +14,3 @@ function createHeart() {
 }
 
 setInterval(createHeart, 300)
-
